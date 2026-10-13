@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Jacob Coldicott/AudioShowcase/AudioShowcase/MyProject/Content/Sound/SA-SoundA.uasset",
+				"D:/Jacob Coldicott/AudioShowcase/AudioShowcase/MyProject/Content/Sound/SA-3Dsound.uasset",
+				"D:/Jacob Coldicott/AudioShowcase/AudioShowcase/MyProject/Content/Sound/SoundAttenuation/SA-3Dsound.uasset"
+			]
+		}
+	]
+}
