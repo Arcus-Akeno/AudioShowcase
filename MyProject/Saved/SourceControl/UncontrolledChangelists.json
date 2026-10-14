@@ -5,9 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Jacob Coldicott/AudioShowcase/AudioShowcase/MyProject/Content/Sound/SoundAttenuation/SA-3Dsound.uasset",
+				"D:/Jacob Coldicott/AudioShowcase/AudioShowcase/MyProject/Content/Sound/freesound_community-short-game-music-loop-38898.uasset",
+				"D:/Jacob Coldicott/AudioShowcase/AudioShowcase/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/B4/AGB2HMFXEBD6TCQNIBZFEV.uasset",
 				"D:/Jacob Coldicott/AudioShowcase/AudioShowcase/MyProject/Content/Sound/SA-SoundA.uasset",
-				"D:/Jacob Coldicott/AudioShowcase/AudioShowcase/MyProject/Content/Sound/SA-3Dsound.uasset",
-				"D:/Jacob Coldicott/AudioShowcase/AudioShowcase/MyProject/Content/Sound/SoundAttenuation/SA-3Dsound.uasset"
+				"D:/Jacob Coldicott/AudioShowcase/AudioShowcase/MyProject/Content/Sound/SA-3Dsound.uasset"
 			]
 		}
 	]
